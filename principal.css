@@ -2,14 +2,22 @@ body{
    background-image: url("https://fondosmil.com/fondo/2781.jpg");
 }
 #centro{
-    text-align: center;
+    margin-left: 450px;
 }
-img.hi {
-    float: left;
-  }
   img{
     display: block;
     margin-right: auto;
-    padding: 2px;
+    margin: 8px;
   }
-  
+  #titulo{
+    display: flex;
+  }
+  #titulo img{
+    margin-right: 0;
+  }
+  .imagen{
+    display: flex;
+  }
+  p{
+    width: 100px;
+  }
