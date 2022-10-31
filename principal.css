@@ -1,0 +1,15 @@
+body{
+   background-image: url("https://fondosmil.com/fondo/2781.jpg");
+}
+#centro{
+    text-align: center;
+}
+img.hi {
+    float: left;
+  }
+  img{
+    display: block;
+    margin-right: auto;
+    padding: 2px;
+  }
+  
